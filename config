@@ -19,4 +19,4 @@ knock_time=30 				     	; Number of minutes the miner waits between visits to co
 ;Always include the appropriate options below the defined "[Miner]" and "[Update]" sections. If you do not include the section names it won't work. 
 ;Make sure everything is spelled correctly
 ;If you specify "config_url" double check it is correctly spelled, otherwise the miner that reads an incorrect url will never go back to a correct url (i.e. last configuration will be locked). 
-123
+;123
